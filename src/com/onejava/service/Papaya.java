@@ -7,6 +7,7 @@ public class Papaya implements Fruit {
     }
 
     public void junkMethod (){
+        System.out.println("Some junk");
 
     }
 }
