@@ -5,4 +5,7 @@ public class Papaya implements Fruit {
     public void printName() {
         System.out.println("I am Papaya");
     }
+    public void junk (){
+    
+    }
 }
